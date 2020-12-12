@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RICADO.Python", "RICADO.Python\RICADO.Python.csproj", "{12B78795-0BB7-46A3-81FF-BA57222782CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B78795-0BB7-46A3-81FF-BA57222782CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B78795-0BB7-46A3-81FF-BA57222782CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B78795-0BB7-46A3-81FF-BA57222782CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B78795-0BB7-46A3-81FF-BA57222782CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6670082F-78BC-4EB8-BE6F-4F115B7F103C}
+	EndGlobalSection
+EndGlobal
