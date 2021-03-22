@@ -5,10 +5,13 @@
     <Authors>RICADO Group</Authors>
     <Company>RICADO Group LP</Company>
     <Description>A Python Helper Library wrapped around IronPython for .NET 5 Applications</Description>
-    <Copyright>Copyright © RICADO Group LP 2009 - 2020</Copyright>
+    <Copyright>Copyright © RICADO Group LP 2009 - 2021</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>packageIcon.png</PackageIcon>
     <RepositoryUrl>https://github.com/ricado-group/dotnet-python</RepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
   </PropertyGroup>
 
   <ItemGroup>
