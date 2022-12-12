@@ -27,7 +27,7 @@
 
   <ItemGroup>
     <PackageReference Include="IronPython" Version="2.7.12" />
-    <PackageReference Include="IronPython.StdLib" Version="2.7.12">
+    <PackageReference Include="IronPython.StdLib" Version="3.4.0">
       <PrivateAssets>analyzers;build</PrivateAssets>
     </PackageReference>
   </ItemGroup>
