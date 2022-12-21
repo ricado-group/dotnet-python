@@ -1,11 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net6.0;netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>net7.0;net6.0;netstandard2.0</TargetFrameworks>
     <Authors>RICADO Group</Authors>
     <Company>RICADO Group LP</Company>
-    <Description>A Python Helper Library wrapped around IronPython for .NET 6 and .NET Standard 2.0 Applications</Description>
-    <Copyright>Copyright © RICADO Group LP 2009 - 2022</Copyright>
+    <Description>A Python Helper Library wrapped around IronPython for .NET 6/7 and .NET Standard 2.0 Applications</Description>
+    <Copyright>Copyright © RICADO Group LP 2009 - 2023</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>packageIcon.png</PackageIcon>
     <RepositoryUrl>https://github.com/ricado-group/dotnet-python</RepositoryUrl>
